@@ -35,3 +35,7 @@ Beim Wechsel von einer lokalen Datei zur veröffentlichten Website wird ein best
 
 Das Projekt enthält ausschließlich die Schülerfassung. Arbeitsblattdateien, Prüfmodus, Testdateien und frühere Git-Verzeichnisse sind nicht enthalten. Die Illustrationen sind KI-generiert; Quellenhinweise befinden sich im Lernprogramm und in dessen Bildnachweisen.
 
+
+## Eigenständige Fassung Schritt für Schritt
+
+Unter `lernprogramme/geschichte-des-lebens-schrittweise/` liegt eine zweite Fassung mit kurzen Sätzen, einem Gedanken je Lernseite, direkter Begriffserklärung, meist zwei Antwortmöglichkeiten und einer Sortieraufgabe mit drei Schritten. Fachliche Schwerpunkte sind Fossilbildung und Erhaltung, Körper und Lebensspur, relative Altersfolge, eine einfache Leitfossil-Zuordnung, Belege und Aussagegrenzen. Die abschließende Anwendung nutzt einen neuen Fund. Es gibt 15 kurze Lernseiten und eine Abschlussseite; ein eigenes Browser-Speicherkürzel trennt Lernstand und Namen von der ursprünglichen Fassung. Beide Fassungen sind über eigene Links erreichbar.
