@@ -1,0 +1,8 @@
+Grafiken erstellt mit dem integrierten Imagegen-Werkzeug (03.10.2026).
+KI-generierte Illustrationen, keine dokumentierten Originalfotos.
+
+falter.png – transparenter Sprite-Atlas
+Create a scientific educational game sprite atlas on a genuinely transparent background, landscape 2:1 ratio. Exactly TWO peppered moths (Biston betularia) dorsal view, wings spread in their natural resting position, antennae, natural geometry. Left half: pale typica form, off-white gray wings with fine black pepper speckles. Right half: dark carbonaria form, nearly charcoal black wings with subtle markings. Both moths equal scale and identical pose, each entirely contained inside its half with ample transparent margins, centered at x=25% and x=75%, y=50%. No shadows, no outline glow, no labels, no bark, no other elements. Naturalistic scientifically plausible educational illustration, crisp edges, texture legible even at small sprite size. This is an atlas used with CSS background-position; spacing and equal scale are essential.
+
+rinde.png – Hintergrund
+Educational game background texture, landscape 3:2. Frame completely filled by a close up flat surface of pale gray weathered tree bark with natural irregular vertical fissures, fine mottling and extensive pale gray crustose lichen patches. Even diffuse lighting, no depth blur, no tree edges, no leaves, no animals, no text, no shadows of branches. Muted grayscale gray and off-white, medium texture scale, detailed naturalistic bark. Will be used as a camouflage search-game background and darkened programmatically to simulate pollution, so avoid colored accents.

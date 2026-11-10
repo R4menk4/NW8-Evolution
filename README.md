@@ -1,6 +1,6 @@
 # NW 8 - Evolution
 
-Statische Lernplattform für Naturwissenschaften, Jahrgang 8. Die Startseite enthält als erstes Lernprogramm **Geschichte des Lebens erforschen**.
+Statische Lernplattform für Naturwissenschaften, Jahrgang 8. Die Startseite enthält **Geschichte des Lebens erforschen** und als eigene zweite Kachel das **Birkenspanner-Spiel**.
 
 ## Lokal öffnen
 
@@ -19,6 +19,7 @@ Repository: https://github.com/R4menk4/NW8-Evolution. Die Website wird über Git
 
 - `index.html`, `styles.css`, `hub.js`: Übersicht mit Lernkacheln.
 - `lernprogramme/geschichte-des-lebens/`: vollständiges erstes Lernprogramm mit eigenen Bildern, Aufgaben und Speicherung.
+- `lernprogramme/birkenspanner/`: digitales Selektionsspiel mit drei Sekunden Jagdzeit und Diagramm für beide Farbformen.
 - `.nojekyll`: unveränderte Auslieferung als statische Website.
 
 Weitere Lernprogramme können eigene Ordner unter `lernprogramme/` und weitere Kacheln auf der Startseite erhalten. Für weitere Programme jeweils eigene Speicherkennungen verwenden.
@@ -36,3 +37,11 @@ Beim Wechsel von einer lokalen Datei zur veröffentlichten Website wird ein best
 Das Projekt enthält ausschließlich die Schülerfassung. Arbeitsblattdateien, Prüfmodus, Testdateien und frühere Git-Verzeichnisse sind nicht enthalten. Die Illustrationen sind KI-generiert; Quellenhinweise befinden sich im Lernprogramm und in dessen Bildnachweisen.
 
 Die GU-Fassung liegt separat unter https://r4menk4.github.io/NW8-Evolution-GU/ im Repository `NW8-Evolution-GU`.
+
+## Birkenspanner – Station 3
+
+Zielkurs: Naturwissenschaften, Jahrgang 8. Das Spiel schließt in der Lernlandkarte an Fossilien und das erste selbstständige Kapitel an; daraus folgt keine Aussage über den tatsächlichen Unterrichtsstand. Ausgangsmaterial ist die vorhandene Endfassung aus `03 Birkenspanner/Station_3_Birkenspanner`. Gestalterische Referenz der neuen Kachel ist diese Lernübersicht. Zielordner: `lernprogramme/birkenspanner/`.
+
+Alle spielen gleichzeitig und vergleichen anschließend ihre Runden. Start: 8 helle und 8 dunkle Falter, 3 Sekunden Jagdzeit. Die nächsten 16 Falter entstehen entsprechend den Farbanteilen der Überlebenden. Ab Generation 4 wird die Rinde dunkler; Generationen 7–9 behandeln optional sauberere Luft. Ein direkter Klick auf eine andere Umweltphase startet eine neue Vergleichsreihe mit 8/8. Das Diagramm zeigt beide Farbformen. Die vereinbarte Schülerfassung enthält keinen zusätzlichen Abschnitt „Hintergrund, Modellregeln und Hinweise“.
+
+Eigene Speicherung: `evolution-station3-birkenspanner-v2`. Lokale Dateistände werden nicht automatisch auf GitHub Pages übertragen. Ergebnisse lassen sich als Textdatei sichern. Links im Kopf- und Fußbereich führen zurück zur Übersicht. Spielgrafiken und Bildprompts liegen unter `lernprogramme/birkenspanner/assets/`. Fachlicher Hintergrund der Konzeption: Cook & Saccheri (2013), https://pmc.ncbi.nlm.nih.gov/articles/PMC3668657/.

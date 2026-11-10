@@ -1,0 +1,23 @@
+BIRKENSPANNER – STATION 3 DER LERNLANDKARTE EVOLUTION
+
+Start: index.html per Doppelklick im Browser öffnen.
+Das Spiel läuft ohne Internet und ohne Installation.
+Den gesamten Ordner zusammenhalten. Nicht nur index.html weitergeben.
+
+Alle spielen gleichzeitig auf ihren eigenen Geräten.
+Startbestand: 8 helle und 8 dunkle Falter, frei durcheinander verteilt.
+Aufgabe: Wie viele Falter kannst du in der Zeit fangen?
+Jede Jagd endet automatisch nach 3 Sekunden.
+Vergleicht anschließend eure Runden und sucht nach Gemeinsamkeiten.
+Aus den Überlebenden wird eine neue Generation mit 16 Faltern gebildet;
+ihre Farbanteile richten sich nach den Anteilen der Überlebenden.
+Nach Generation 6 gemeinsam auswerten. Generationen 7–9 sind optional.
+
+Ergebnisse werden lokal im Browser gespeichert.
+Mit „Ergebnisse sichern“ könnt ihr eine Textdatei herunterladen.
+Beim Neuladen während der Jagd wird die aktuelle Jagdrunde beendet.
+Grafiken: KI-generierte Illustrationen, keine Originalfotos.
+
+Die Umweltphasen oben sind anklickbar. Ein direkter Wechsel startet eine
+neue Versuchsreihe mit 8/8. Im normalen Ablauf beginnt Industrieabgase
+automatisch ab Generation 4. Das Diagramm zeigt beide Farbformen.
