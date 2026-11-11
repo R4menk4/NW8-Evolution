@@ -21,3 +21,7 @@ Grafiken: KI-generierte Illustrationen, keine Originalfotos.
 Die Umweltphasen oben sind anklickbar. Ein direkter Wechsel startet eine
 neue Versuchsreihe mit 8/8. Im normalen Ablauf beginnt Industrieabgase
 automatisch ab Generation 4. Das Diagramm zeigt beide Farbformen.
+
+Die Auswertung erfolgt anschließend gemeinsam in der Klasse.
+Im Spiel gibt es keinen unteren Auswertungsabschnitt und keine
+Erklärungs- oder Reflexionsfelder. Diagramm und Zähltabelle bleiben sichtbar.
